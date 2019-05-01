@@ -25,8 +25,3 @@ Badger - Tenacious
 
 #### Notes
 Be more intentional about knowledge creation and sharing
-
-
-The wealth of knowledge - Thomas Stewart
-Working Knowledge - Larry Prusak
-If only we knew what we know Carla O'Dell
