@@ -1,4 +1,8 @@
 # Building a Best-In-Class AEC HR Function
+Speaker: 
+- Barbara Irwin, Founder and President - HR Advisors Group
+- Laurie Dreyer, Director of Development - Taylor Design
+
 
 ## Speaker Profile
 An accomplished human resources leader and consultant with over 25 years of experience, Barbara Irwin is Founder and President of HR Advisors Group, LLC, a woman owned business, based in Herndon, VA. HR Advisors Group is an HR consulting practice in the A/E/C space in the private and public sector.  Her firm provides organizational and leadership development, management and leadership skills training, HR Consulting services including: HR Outsourcing, Training Needs Assessments, Employee Engagement Surveys, HR Strategic Planning, HR Audits, HR Search, Career Path and Competency Modeling Development, and customized program design and execution on various talent management and organizational initiatives. Barbara formerly served in leadership positions at Stantec (formerly MWH) and Dewberry. 

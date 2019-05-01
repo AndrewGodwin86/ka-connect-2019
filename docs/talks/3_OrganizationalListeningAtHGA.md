@@ -1,5 +1,4 @@
 # Organizational Listening at HGA
-
 Speaker: Tim Carl, CEO - HGA
 
 ## Speaker Profile
