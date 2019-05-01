@@ -1,5 +1,6 @@
 # How to Design an Exceptional Employee Experience
-Speaker: Jim Harter, Ph.D - Gallup
+<img src="../media/SpeakerHeadshot_01JimHarter.png" width="60px">  
+Jim Harter, Ph.D - Gallup
 
 ## Speaker Profile
 Jim Harter, Ph.D., is Chief Scientist of Workplace Management and Well-Being for Gallup's workplace management practice. In his KA Connect 2019 keynote talk, Dr. Harter will discuss Gallup's latest research on the employee experience, from attraction to exit, and what it takes to build an exceptional culture and employment brand that matches the expectations of the new and future workforce.

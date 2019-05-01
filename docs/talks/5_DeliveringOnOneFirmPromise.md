@@ -1,5 +1,10 @@
-# Delivering on the one firm promise
-Speaker: Jim Lee - President, Greg Kanz - Marketing Director, Shive-Hattery
+# Delivering on the One Firm promise
+<img src="../media/SpeakerHeadshot_05JimLee.png" width="60px">  
+Jim Lee,President - Shive-Hattery
+
+
+<img src="../media/SpeakerHeadshot_05GregKanz.png" width="60px">  
+Greg Kanz, Marketing Director - Shive-Hattery
 
 ## Speaker Profile
 Jim Lee serves as president of Shive-Hattery, a 400-person architecture, engineering, and interior design firm headquartered in Cedar Rapids, Iowa with seven operating offices in Iowa, Illinois, and Indiana. Jim received his Bachelor of Science in mechanical engineering from South Dakota State University in 1978 and has functioned as a design engineer, project manager, team leader, and now president at Shive-Hattery over the last 30 years. Jim is responsible for the overall leadership, culture, vision, and direction of current and future operations of Shive-Hattery.

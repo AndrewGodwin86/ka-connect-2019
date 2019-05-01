@@ -1,5 +1,6 @@
 # Organizational Listening at HGA
-Speaker: Tim Carl, CEO - HGA
+<img src="../media/SpeakerHeadshot_03TimCarl.png" width="60px">  
+Tim Carl, CEO - HGA
 
 ## Speaker Profile
 Since joining HGA in 1998 as a designer, Tim has built a national reputation for authentic, celebrated architecture that artfully connects ideas about program, technology and environment with a deep understanding of place and his relationships with clients. He took on the role of CEO in 2013; his collaborative and thoughtful approach has strengthened and guided the organization through significant growth for the firm. His leadership in articulating a collective vision and point of view has led to significant investments in learning and research, sustainability, technology, and equity—all in deference to building a more positive, lasting impact through design.
@@ -50,5 +51,5 @@ VR: Put lens in VR goggles to simulate cateracts/visual degradation. Allowed emp
 Hired Design Anthropologist
 Deeper understanding of patient journeys. Little overlap between medical staff assumption vs patient experience
 
-##Q&A
+## Q&A
 

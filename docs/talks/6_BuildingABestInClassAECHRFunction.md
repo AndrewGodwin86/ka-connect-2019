@@ -1,7 +1,10 @@
 # Building a Best-In-Class AEC HR Function
-Speaker: 
-- Barbara Irwin, Founder and President - HR Advisors Group
-- Laurie Dreyer, Director of Development - Taylor Design
+
+<img src="../media/SpeakerHeadshot_06BarbaraIrwin.png" width="60px">  
+Barbara Irwin, Founder and President - HR Advisors Group  
+
+<img src="../media/SpeakerHeadshot_06LaurieDreyer.png" width="60px">  
+Laurie Dreyer, Director of Development - Taylor Design  
 
 
 ## Speaker Profile

@@ -1,5 +1,7 @@
 # Continuously Improving the Employee Experience
-Speaker: Carole Wedge, CEO - Shepley Bulfinch
+
+<img src="../media/SpeakerHeadshot_02CaroleWedge.png" width="60px">  
+Carole Wedge, CEO - Shepley Bulfinch
 
 ## Speaker Profile
 Carole Wedge is the CEO of Shepley Bulfinch, where her work in both leadership and design capacities is noted for its success in achieving organizational change and strategically positioning clients for the future. Carole is recognized for moving the firm forward since 2004, opening offices in Phoenix and Houston and growing the quality and creativity of the firm’s work. Her efforts to enhance diversity in architecture, on a national level, are visible through her leadership of the Large Firm Round Table and active participation in both the AIA Women’s Leadership Summits and Equity By Design. Carole received her Bachelor of Architecture from Boston Architectural College, where she has served on the Board of Trustees from 2007 -2018. She joined Shepley Bulfinch in 1986 and was elevated to the AIA College of Fellows in 2008. 
