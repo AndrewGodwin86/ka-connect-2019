@@ -5,3 +5,5 @@
   - [Continuously Improving the Employee Experience](talks/2_ContinuouslyImprovingTheEmployeeExperience.md)
   - [Organizational Listening at HGA](talks/3_OrganizationalListeningAtHGA.md)
   - [The Networked President](talks/4_TheNetworkedPresident.md)
+  - [Delivering on the One Firm Promise](talks/5_DeliveringOnOneFirmPromise.md)
+  - [Building a Best-In-Class AEC HR Function](talks/6_BuildingABestInClassAECHRFunction.md)
