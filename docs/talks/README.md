@@ -12,4 +12,4 @@
 - [Engaging Engineers with Company Wide Collaboration at AEI](talks/9_EngagingEngineersWithCompanyWideCollaborationAtAEI.md)
 - [Orchestrating Cultural Transformation through Communications and Collaboration](talks/10_OrchestratingOrchestratingCulturalTransformationThroughCommunicationsAndCollaboration.md)
 - [A Sustainable Approach to Technical Content Maintenance](talks/11_ASustainableApproachToTechnicalContentMaintenance.md)
-- From “What is KM?” to Trusted Advisor in Four Years
+- [From “What is KM?” to Trusted Advisor in Four Years](talks/12_FromWhatIsKMToTrustedAdvisorInFourYears.md)
