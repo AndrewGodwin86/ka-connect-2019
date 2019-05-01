@@ -11,17 +11,18 @@ He is the primary researcher and author of the first large-scale, multi-organiza
 Since joining Gallup in 1985, Dr. Harter has authored or coauthored more than 1,000 research studies for organizations on employee engagement and talent and on topics in applied psychology and well-being. His specialties include psychological measurement and estimating the economic impact of management initiatives.
 
 ## TL;DR
-Getting Manager experience right first, improves employee experience
+The workplace and workforce are changing rapidly. Employee expectations are shifting. Gallup have done huge amounts of research on employee engagement. Getting Manager experience right first, improves employee experience
 
-## Talk Notes
-Studied lots of people - Workplace database of 70m people
+## Intro
+Gallup study people and workplaces. They have a workplace database of their research which contains information on 70m people that they have studied.
 
-Will command and control management work in the future
+As the workforce changes, will the traditional command and control management approach work in the future?
 
 
-### What is the purpose of an organisation?
-Improve lives? - in and out of org
-Not just getting work done through people, Getting people done through work
+## What is the purpose of an organisation?
+Some people might say "Improve lives" - in and out of org
+
+"Not just getting work done through people, Getting people done through work"
 
 ### Changing Workplace
 
