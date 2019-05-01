@@ -16,11 +16,11 @@ This year's theme: Elevating the Employee Experience
 10. Making progress towards our mission (Advancing the practice of Knowledge Management in AEC industry)
 
 ### KM Spirit Animals
-Cat - Curious
-Blue footed penguin - Friendly
-Beagle with ball - enthusiasm
-Beaver - Createve, bulding things
-Badger - Tenacious
+- Cat - Curious
+- Blue footed penguin - Friendly
+- Beagle with ball - enthusiasm
+- Beaver - Createve, bulding things
+- Badger - Tenacious
 
 
 #### Notes
