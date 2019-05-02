@@ -3,6 +3,9 @@
 <img src="../media/SpeakerHeadshot_10KarenRobichaud.png" width="60px"> 
 Karen Robichaud, Payette
 
+## TL;DR
+...
+
 ## Speaker Profile
 Karen joined Payette in 2012 as a graphic designer and has since led several communications initiatives from the ground-up for the firm. From the outset, Karen established Payette as a leader among other architecture firms with social media strategy, leveraging many voices across the firm. As she positioned the firm in the social media sphere, Karen took on the firm’s external communications strategies and PR initiatives. Karen is a leading voice in building a culture of communication at an architecture firm and has presented her work in a number of venues; AIA SF Equity by Design Symposium, AIA National Conferences, AIA COTE Annual Summit, SMPS Boston, and the Boston Society of Architecture. Karen earned her BA in English and Theatre Arts from the University of Richmond.
 

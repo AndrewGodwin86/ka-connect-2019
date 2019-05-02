@@ -4,6 +4,7 @@
 Krista Murphy, AEI
 
 ## TL;DR
+...
 
 ## Speaker Profile
 Krista is a Principal at Affiliated Engineers, Inc. (AEI) and a member of AEI’s national executive team.  Based in San Francisco, she leads both the SF office operations as well as AEI’s firmwide Company Wide Teams, discipline-specific communities of practice, focused on quality, training, and continuous improvement.  As an electrical engineer with technically complex project experience for owners such as Stanford University, LBNL, and an array of Northern California prominent life sciences companies and developers, she leads AEI’s quest for knowledge sharing and a desire to leverage project experience between AEI’s most senior and most recently hired engineers.

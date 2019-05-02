@@ -4,6 +4,7 @@
 Kathryn Whitenton, Nielsen Norman Group
 
 ## TL;DR
+...
 
 ## Speaker Profile
 Kathryn Whitenton is the Director of Digital Strategy at Nielsen Norman Group, a firm which is recognized around the world as a leader in the field of user experience for more than 20 years. Kathryn consults with clients to evaluate and improve designs for both consumer-oriented systems and for large intranets, from Fortune 500 industry leaders to small startups, in diverse industries including finance, professional services, health care, media, technology, and telecommunications.

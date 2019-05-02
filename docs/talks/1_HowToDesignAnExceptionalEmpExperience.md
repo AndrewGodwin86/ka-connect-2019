@@ -1,6 +1,10 @@
 # How to Design an Exceptional Employee Experience
+
 <img src="../media/SpeakerHeadshot_01JimHarter.png" width="60px">  
 Jim Harter, Ph.D - Gallup
+
+## TL;DR
+The workplace and workforce are changing rapidly. Employee expectations are shifting. Gallup have done huge amounts of research on employee engagement. Getting Manager experience right first, improves employee experience
 
 ## Speaker Profile
 Jim Harter, Ph.D., is Chief Scientist of Workplace Management and Well-Being for Gallup's workplace management practice. In his KA Connect 2019 keynote talk, Dr. Harter will discuss Gallup's latest research on the employee experience, from attraction to exit, and what it takes to build an exceptional culture and employment brand that matches the expectations of the new and future workforce.
@@ -10,9 +14,6 @@ Dr. Harter is a coauthor of the New York Times bestseller 12: The Elements of Gr
 He is the primary researcher and author of the first large-scale, multi-organization study to investigate the relationships between work-unit employee engagement and business results. Updated periodically, this study currently covers 82,000 business units and includes 1.8 million employees in 230 organizations, across 49 industries, and in 73 countries. His work has appeared in many publications, including Harvard Business Review, The New York Times, The Wall Street Journal, Fast Company, TIME Magazine, and in academic articles and book chapters. 
 
 Since joining Gallup in 1985, Dr. Harter has authored or coauthored more than 1,000 research studies for organizations on employee engagement and talent and on topics in applied psychology and well-being. His specialties include psychological measurement and estimating the economic impact of management initiatives.
-
-## TL;DR
-The workplace and workforce are changing rapidly. Employee expectations are shifting. Gallup have done huge amounts of research on employee engagement. Getting Manager experience right first, improves employee experience
 
 ## Intro
 Gallup study people and workplaces. They have a workplace database of their research which contains information on 70m people that they have studied.

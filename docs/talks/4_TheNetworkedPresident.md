@@ -2,6 +2,9 @@
 <img src="../media/SpeakerHeadshot_04MitchFortner.png" width="60px">    
 Mitch Fortner, President - KSA
 
+## TL;DR
+...
+
 ## Speaker Profile
 Mitch Fortner graduated from Texas A&M University with a degree in civil engineering in 1984 and has worked for KSA for over 31 years. Three years ago he was elected president of the firm, and since that time, he has been on a journey to “build people who build the future.” He is passionate about working cooperatively with other leaders in his firm to adapt KSA to meet the challenges of today and the future, including recruiting and retaining employees in our current AE marketplace with unprecedented levels of low unemployment. Networking, employment engagement, firm culture and values, and strategic planning have been major components of that journey.
 

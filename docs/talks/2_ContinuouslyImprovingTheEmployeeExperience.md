@@ -3,14 +3,14 @@
 <img src="../media/SpeakerHeadshot_02CaroleWedge.png" width="60px">  
 Carole Wedge, CEO - Shepley Bulfinch
 
+## TL;DR
+Carole shared four stories/questions of how Shepley improved the lack of transparency of the firm to employees
+
 ## Speaker Profile
 Carole Wedge is the CEO of Shepley Bulfinch, where her work in both leadership and design capacities is noted for its success in achieving organizational change and strategically positioning clients for the future. Carole is recognized for moving the firm forward since 2004, opening offices in Phoenix and Houston and growing the quality and creativity of the firm’s work. Her efforts to enhance diversity in architecture, on a national level, are visible through her leadership of the Large Firm Round Table and active participation in both the AIA Women’s Leadership Summits and Equity By Design. Carole received her Bachelor of Architecture from Boston Architectural College, where she has served on the Board of Trustees from 2007 -2018. She joined Shepley Bulfinch in 1986 and was elevated to the AIA College of Fellows in 2008. 
 
 ## Talk Abstract
 Shepley Bulfinch believes an employee’s feelings about belonging or not belonging in a firm or on a team directly impacts the quality and effectiveness of their work. We have used continuous improvement to shape Shepley’s employee experience philosophy. We’ve looked at everything from our application process, interviews, and onboarding to the day-to-day work of collaborating, having “continuous conversations,” and celebrating our successes. Ongoing attention and conversations in these areas have allowed us to continually improve what it’s like to work at Shepley. In this talk, Carole will share Shepley’s employee experience philosophy, programs, and results to spark a conversation about what you can do to improve the employee experience at your firm.
-
-## TL;DR
-Carole shared four stories/questions of how Shepley improved the lack of transparency of the firm to employees
 
 ## CEOs role
 Belonging

@@ -3,6 +3,9 @@
 <img src="../media/SpeakerHeadshot_08EllenBensky.png" width="60px">  
 Ellen Bensky, CEO - Turner Fleischer Architects
 
+## TL;DR
+...
+
 ## Speaker Profile
 As a Partner and CEO of Turner Fleischer Architects., Ellen’s mission is to build and lead a dynamic, results-oriented organization dedicated to client satisfaction, staff retention and growth. Ellen joined the firm in 1990, rising to her current role in 2008. Passionate about learning, she is especially proud of the comprehensive TF Academy and other in-house learning opportunities, which aim to nurture the firm’s large cohort of young, enthusiastic talent into tomorrow’s leaders. Ellen is able to engage daily in the process of successfully balancing business needs and architectural realities, driven by her ambition for operational excellence. An experienced speaker, she has presented at local and international levels, including KA Connect 2018 and the Royal Architectural Institute of Canada’s 2018 conference.
 

@@ -3,6 +3,9 @@
 <img src="../media/SpeakerHeadshot_12DonovanHelminiak.png" width="60px"> 
 Donovan Helminiak, KTGY
 
+## TL;DR
+...
+
 ## Talk Abstract
 When Donovan Helminiak started as KTGY’s first Knowledge Manager four years ago, most people in the firm didn’t know what Knowledge Management was and why Donovan was there. Fast forward to 2019, and you’ll learn that Donovan’s team has more projects in their backlog than they can handle, ranging from Internal Communications to Business Intelligence. How did this happen? Donovan learned how to create trust by delivering business value for KTGY, removing friction from employees’ daily lives, and switching from teaching people about KM to teaching them how to take advantage of KTGY’s network of resources. 
 
