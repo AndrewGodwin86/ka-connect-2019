@@ -1,6 +1,5 @@
 - [KA Connect 2019](/)
   - [Talks](talks/README.md)
-    - [Welcome](talks/0_Welcome.md)
     - [How to Design An Exceptional Employee Experience](talks/1_HowToDesignAnExceptionalEmpExperience.md)
     - [Continuously Improving the Employee Experience](talks/2_ContinuouslyImprovingTheEmployeeExperience.md)
     - [Organizational Listening at HGA](talks/3_OrganizationalListeningAtHGA.md)
