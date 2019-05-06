@@ -26,6 +26,11 @@ This year’s conference focussed on the following knowledge management program 
 
 - Process Improvement
 
+## Key Takeaways
+- +ONE
+- Don't be a pizza 
+
 ## Twitter
 
 [#KAConnect2019](https://twitter.com/search?vertical=default&q=%23KAConnect2019&src=typd)
+
