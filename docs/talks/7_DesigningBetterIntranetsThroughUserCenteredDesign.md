@@ -1,10 +1,17 @@
-# Designing Better Intranets Through User Centered Design
+##### KA Connect 2019 {docsify-ignore}
+# Designing Better Intranets Through User Centered Design {docsify-ignore}
 
 <img src="../media/SpeakerHeadshot_07KathrynWhitenton.png" width="60px">  
 Kathryn Whitenton, Nielsen Norman Group
 
 ## TL;DR
-...
+```text
+- Put the end user at the center and foundation of decision making.
+
+- Testing with 5 users uncovers 85% of major problems for that group of users
+
+- Avoid using category terms that are too broad, overlapping or jargon
+```
 
 ## Speaker Profile
 Kathryn Whitenton is the Director of Digital Strategy at Nielsen Norman Group, a firm which is recognized around the world as a leader in the field of user experience for more than 20 years. Kathryn consults with clients to evaluate and improve designs for both consumer-oriented systems and for large intranets, from Fortune 500 industry leaders to small startups, in diverse industries including finance, professional services, health care, media, technology, and telecommunications.
@@ -14,40 +21,58 @@ The first step toward a successful intranet is making your firm's essential cont
 
 The solution is to leverage the insights of your employees through user-centered research and design methods when developing the information architecture for your intranet. This talk will explain exactly how you can incorporate proven methods for understanding user expectations into your intranet's design. Learn how intranet teams have used simple techniques (such as usability testing and card sorting) to create great employee experiences.
 
-## Intro
+## About Nielsen Norman Group
 
-Observe people interacting with systems and software
-Use observations to recommend guidelines and ideas for how things can be improved
-Strong focus on Intranets
+We observe people interacting with systems and software and 
+use observations to recommend guidelines and ideas for how things can be improved.
+
+We have a strong focus on Intranets.
 
 ## Intranet IA: Most Common Problems
-Start by looking at the people who use the system
-What do they expect?
-What would make sense to them?
+Start by looking at the people who use the Intranet.
+- What do they expect?
+- What would make sense to them?
+
+The most common Information Architecture problems on Intranets are:
+- Confusion between categories
+- Unclear terminology or acronyms
+- Inconsisten design, content or navigation
+
+![Common Intranet IA Problems](../media/07_CommonIntranetProblems.png)
+
 
 ## Design and build
-Discovery phase first
+![Design Test Build](../media/07_DesignTestBuild.png)
+Test your designs with users more frequently
 
 ## User Centered Design
-Put end user at center and foundation of decision making
+
+![User Centered Design](../media/07_UserCenteredDesign.png)
+
+Put the end user at the center and foundation of decision making.
+
+### User Centered
+![User Centered Nav](../media/07_UserCenteredNav.png)
+
+### Department Centered
+
+![Department Centered Design](../media/07_DepartmentCenteredNav.png)
 
 Don't need to know who's responsible for what. Just what their questions is.
 'Working at BVN' section instead of finance
 
-YOU ARE NOT THE USER
-Intranet should make sense to all the users.
+![You are not the user](../media/07_YouAreNotTheUser.png)
 
-## 5 Ways to learn about users
-- Analytics
-- Surveys
-- Usability Testing
-- Card Sorting
-- Tree Testing
+The Intranet should make sense to all the users.
 
-### Analytics
-Track all page views, clicks and searches
+## 5 Ways to learn about users {docsify-ignore}
 
-### Surveys
+![5 Ways to Learn About Users](../media/07_5WaysToLearnAboutUsers.png)
+
+## Analytics
+![Analytics](../media/07_Analytics.png)
+
+## Surveys
 Ask users for their opinions
 
 Which is the most important to improve on the Intranet?
@@ -56,10 +81,10 @@ Most important was Ease of finding information
 Benefits: Quick and easy. Provides good starting points for prioritization
 Limits: Describe what, but not why. Surveys describe beliefs which may be mistaken or incomplete
 
-### Usability Testing
+## Usability Testing
 Observe people using the system while they explain their actions
 
-#### 101
+### 101
 - List most important tasks people need to do
 - Watch real users as they attempt to perform those tasks
 - Users Think out loud as they work to explain their actions
@@ -67,10 +92,10 @@ Observe people using the system while they explain their actions
 
 Task example: Find a pair of shoes on this site that you might like to buy
 
-#### When should you do a usability test
+### When should you do a usability test
 Before, During and After!
 
-Testing with 5 people uconvers 85% of major problems with those tasks, for that type of user
+![Testing with 5 users uncovers 85% of major problems](../media/07_TestingWith5Users.png)
 
 #### Information Scent
 Users estimate a given hint's like success from the spoor (a track, a trail a scent)
@@ -85,7 +110,9 @@ Often you assume everyone knows these terms. Makes it much more difficult for th
 
 When people don't know what to click on, they click on nothing
 
-### Cart Sorting
+![Low Information Scent](../media/07_LowInformationScent.png)
+
+## Card Sorting
 Asks user to organize content the way they would expect to find it
 - What categories do people create?
 
@@ -96,7 +123,7 @@ Asks user to organize content the way they would expect to find it
 4. Have users explain each group
 5. Compile all groups created by all participants and look for patterns
 
-#### Online Card SOrting
+#### Online Card Sorting
 OptimalSort
 Userzoom
 UsabilityTools
@@ -115,7 +142,7 @@ Identified common task areas common to most job roles
 More specific content was grouped by the type of work being done
 Provided data to explain why organizing content into categories such as documents would not fit users expectation
 
-### Tree Testing
+## Tree Testing
 Ask users to find a topic using your proposed menu structure
 - Are people
 
