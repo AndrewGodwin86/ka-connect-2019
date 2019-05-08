@@ -1,6 +1,7 @@
-# Engaging Engineers with Company Wide Collaboration at AEI
+##### KA Connect 2019 {docsify-ignore}
+# Engaging Engineers with Company Wide Collaboration at AEI {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_09KristaMurphy.png" width="60px">  
+![Krista Murphy](../media/SpeakerHeadshot_09KristaMurphy.png)  
 Krista Murphy, AEI
 
 ## TL;DR

@@ -1,5 +1,7 @@
-# Organizational Listening at HGA
-<img src="../media/SpeakerHeadshot_03TimCarl.png" width="60px">  
+##### KA Connect 2019 {docsify-ignore}
+# Organizational Listening at HGA {docsify-ignore}
+
+![Tim Carl](../media/SpeakerHeadshot_03TimCarl.png)  
 Tim Carl, CEO - HGA
 
 ## TL;DR
@@ -11,7 +13,7 @@ Since joining HGA in 1998 as a designer, Tim has built a national reputation for
 ## Talk Abstract
 HGA believes that investing in their ability to listen has helped them to generate unique insights, raise the quality of design, and improve their ability to attract, engage, and develop their employees. Because of this belief, HGA has invested in a series of programs such as equity, diversity and inclusion training, research, leadership development, and a variety of internal communications and knowledge sharing initiatives. In his KA Connect 2019 talk, Tim Carl will share the benefits, challenges, and key lessons learned from  HGA’s journey into deepening and scaling their ability to listen.
 
-Mut learn how to listen better to org and conenct ideas more effectively
+Must learn how to listen better to org and conenct ideas more effectively
 
 How does your personal journey support org journey and vice versa
 

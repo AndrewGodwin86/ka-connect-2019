@@ -1,6 +1,7 @@
-# A Sustainable Approach to Technical Content Maintenance
+##### KA Connect 2019 {docsify-ignore}
+# A Sustainable Approach to Technical Content Maintenance {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_11ShannonKaplan.png" width="60px"> 
+![Shannon Kaplan](../media/SpeakerHeadshot_11ShannonKaplan.png) 
 Shannon Kaplan, AKF
 
 ## TL;DR

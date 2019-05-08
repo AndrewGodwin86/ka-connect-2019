@@ -1,7 +1,7 @@
 ##### KA Connect 2019 {docsify-ignore}
 # Designing Better Intranets Through User Centered Design {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_07KathrynWhitenton.png" width="60px">  
+![Kathryn Whitenton](../media/SpeakerHeadshot_07KathrynWhitenton.png)  
 Kathryn Whitenton, Nielsen Norman Group
 
 ## TL;DR

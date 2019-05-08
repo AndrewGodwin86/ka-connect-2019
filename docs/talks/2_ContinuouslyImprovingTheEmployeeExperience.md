@@ -1,6 +1,7 @@
-# Continuously Improving the Employee Experience
+##### KA Connect 2019 {docsify-ignore}
+# Continuously Improving the Employee Experience {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_02CaroleWedge.png" width="60px">  
+![CaroleWedge](../media/SpeakerHeadshot_02CaroleWedge.png)  
 Carole Wedge, CEO - Shepley Bulfinch
 
 ## TL;DR
@@ -37,12 +38,11 @@ Not a mystery
 #### Pathways
 
 #### Leadership Criteria
-Not all
+Not all principals had all qualities
 
 
 #### Leadership Pathways
 Split principals up into 3 paths
-
 
 Needed to train people in Business Development. Identified them as a fellow, with all leadership qualities
 

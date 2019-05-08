@@ -1,6 +1,7 @@
-# The Hidden Benefits of Developing a Teaching Organization
+##### KA Connect 2019 {docsify-ignore}
+# The Hidden Benefits of Developing a Teaching Organization {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_08EllenBensky.png" width="60px">  
+![Ellen Bensky](../media/SpeakerHeadshot_08EllenBensky.png)  
 Ellen Bensky, CEO - Turner Fleischer Architects
 
 ## TL;DR

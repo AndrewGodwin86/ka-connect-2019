@@ -1,5 +1,7 @@
-# The Networked President: Using Social Media to Improve Recruiting and Retention
-<img src="../media/SpeakerHeadshot_04MitchFortner.png" width="60px">    
+##### KA Connect 2019 {docsify-ignore}
+# The Networked President: Using Social Media to Improve Recruiting and Retention {docsify-ignore}
+
+![Mitch Fortner](../media/SpeakerHeadshot_04MitchFortner.png)  
 Mitch Fortner, President - KSA
 
 ## TL;DR
@@ -16,8 +18,8 @@ Mitch was posting on LinkedIn alot. Then pre-empted questions internally by post
 Analysis of posts:
 Key themes
 - Redefine core values 
-create a better place to work
-Acknolwedge 
+- Create a better place to work
+- Acknowledge employees
 
 ### Redefine Core Values
 Re-establish core values

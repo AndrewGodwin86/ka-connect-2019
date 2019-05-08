@@ -1,6 +1,7 @@
-# From “What is KM?” to Trusted Advisor in Four Years
+##### KA Connect 2019 {docsify-ignore}
+# From “What is KM?” to Trusted Advisor in Four Years {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_12DonovanHelminiak.png" width="60px"> 
+![Donovan Helminiak](../media/SpeakerHeadshot_12DonovanHelminiak.png) 
 Donovan Helminiak, KTGY
 
 ## TL;DR

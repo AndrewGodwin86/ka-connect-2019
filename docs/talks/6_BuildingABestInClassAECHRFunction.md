@@ -1,9 +1,10 @@
-# Building a Best-In-Class AEC HR Function
+##### KA Connect 2019 {docsify-ignore}
+# Building a Best-In-Class AEC HR Function {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_06BarbaraIrwin.png" width="60px">  
+![Barbara Irwin](../media/SpeakerHeadshot_06BarbaraIrwin.png)  
 Barbara Irwin, Founder and President - HR Advisors Group  
 
-<img src="../media/SpeakerHeadshot_06LaurieDreyer.png" width="60px">  
+![Laurie Dreyer](../media/SpeakerHeadshot_06LaurieDreyer.png)  
 Laurie Dreyer, Director of Development - Taylor Design  
 
 ## TL;DR

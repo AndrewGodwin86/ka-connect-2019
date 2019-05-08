@@ -1,7 +1,7 @@
 ##### KA Connect 2019 {docsify-ignore}
 # How to Design an Exceptional Employee Experience {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_01JimHarter.png" width="60px">  
+![Jim Harter](../media/SpeakerHeadshot_01JimHarter.png)  
 Jim Harter Ph.D, Chief Scientist - Gallup
 
 ## TL;DR

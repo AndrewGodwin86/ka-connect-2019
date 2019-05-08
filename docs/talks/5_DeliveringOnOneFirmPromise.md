@@ -1,9 +1,11 @@
-# Delivering on the One Firm promise
-<img src="../media/SpeakerHeadshot_05JimLee.png" width="60px">  
-Jim Lee,President - Shive-Hattery
+##### KA Connect 2019 {docsify-ignore}
+# Delivering on the One Firm promise {docsify-ignore}
+
+![Jim Lee](../media/SpeakerHeadshot_05JimLee.png)  
+Jim Lee, President - Shive-Hattery
 
 
-<img src="../media/SpeakerHeadshot_05GregKanz.png" width="60px">  
+![Greg Kanz](../media/SpeakerHeadshot_05GregKanz.png)  
 Greg Kanz, Marketing Director - Shive-Hattery
 
 ## TL;DR

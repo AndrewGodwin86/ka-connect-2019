@@ -1,6 +1,7 @@
-# Orchestrating Cultural Transformation Through Communications and Collaboration
+##### KA Connect 2019 {docsify-ignore}
+# Orchestrating Cultural Transformation Through Communications and Collaboration {docsify-ignore}
 
-<img src="../media/SpeakerHeadshot_10KarenRobichaud.png" width="60px"> 
+![Karen Robichaud](../media/SpeakerHeadshot_10KarenRobichaud.png) 
 Karen Robichaud, Payette
 
 ## TL;DR
