@@ -1,5 +1,5 @@
 ##### KA Connect 2019 {docsify-ignore}
-# Talks
+# Talks {docsify-ignore}
 
 - [How to Define an Exceptional Employee Experience](talks/1_HowToDesignAnExceptionalEmpExerience.md)
 - [Continuously Improving the Employee Experience](talks/2_ContinuouslyImprovingTheEmployeeExperience.md)
