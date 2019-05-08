@@ -5,15 +5,19 @@
 Jim Harter Ph.D, Chief Scientist - Gallup
 
 ## TL;DR
-- Gallup continue to conduct huge amounts of research on employee engagement. The workplace and workforce are changing rapidly and with that, employee expectations are also shifting. 
+```text
+- Employee expectations are shifting. 
 
 - Higher employee engagement leads to improved business results.
 
-- Employee engagment should not be a separate program, it should be embedded in every process and system within the organisation.
+- Employee engagment should not be a separate program, it should be embedded in every 
+  process and system within the organisation.
 
-- Getting the Manager experience right first, has a cascading effect to the experience of their teams. 
+- Getting the Manager experience right first, has a cascading effect to the experience
+  of their teams. 
 
 - Managers need to transition from being a boss to being a coach.
+```
 
 ## Talk Abstract
 Jim Harter, Ph.D., is Chief Scientist of Workplace Management and Well-Being for Gallup's workplace management practice. In his KA Connect 2019 keynote talk, Dr. Harter will discuss Gallup's latest research on the employee experience, from attraction to exit, and what it takes to build an exceptional culture and employment brand that matches the expectations of the new and future workforce.
